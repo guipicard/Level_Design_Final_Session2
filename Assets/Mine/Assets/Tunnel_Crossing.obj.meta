@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 27a506e548333884b9b573808955dcf7
+timeCreated: 1504382526
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Line004
+    100002: Mod_Train_Track011
+    100004: Mod_Train_Track012
+    100006: Mod_Train_Track013
+    100008: Mod_Train_Track014
+    100010: Mod_Train_Track015
+    100012: Mod_Train_Track016
+    100014: Mod_Train_Track017
+    100016: Mod_Train_Track019
+    100018: Plane006
+    100020: //RootNode
+    400000: Line004
+    400002: Mod_Train_Track011
+    400004: Mod_Train_Track012
+    400006: Mod_Train_Track013
+    400008: Mod_Train_Track014
+    400010: Mod_Train_Track015
+    400012: Mod_Train_Track016
+    400014: Mod_Train_Track017
+    400016: Mod_Train_Track019
+    400018: Plane006
+    400020: //RootNode
+    2300000: Line004
+    2300002: Mod_Train_Track011
+    2300004: Mod_Train_Track012
+    2300006: Mod_Train_Track013
+    2300008: Mod_Train_Track014
+    2300010: Mod_Train_Track015
+    2300012: Mod_Train_Track016
+    2300014: Mod_Train_Track017
+    2300016: Mod_Train_Track019
+    2300018: Plane006
+    3300000: Line004
+    3300002: Mod_Train_Track011
+    3300004: Mod_Train_Track012
+    3300006: Mod_Train_Track013
+    3300008: Mod_Train_Track014
+    3300010: Mod_Train_Track015
+    3300012: Mod_Train_Track016
+    3300014: Mod_Train_Track017
+    3300016: Mod_Train_Track019
+    3300018: Plane006
+    4300000: Line004
+    4300002: Mod_Train_Track011
+    4300004: Mod_Train_Track012
+    4300006: Mod_Train_Track013
+    4300008: Mod_Train_Track014
+    4300010: Mod_Train_Track015
+    4300012: Mod_Train_Track016
+    4300014: Mod_Train_Track017
+    4300016: Mod_Train_Track019
+    4300018: Plane006
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.015
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
